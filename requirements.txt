@@ -1,3 +1,5 @@
 fastapi
 uvicorn
+PyJWT
+passlib[bcrypt]
 python-multipart
